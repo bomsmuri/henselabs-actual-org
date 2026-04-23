@@ -52,4 +52,4 @@ tools: Read, Write, Glob, Grep
 2. 톤앤매너 가이드 작성 (content/style_guide.md)
 3. 첫 4주 콘텐츠 캘린더 작성
 4. Intelligence 첫 산출물 기반 콘텐츠 10개 draft
-작업 시작 전 반드시 읽을 것: docs/01_company_blueprint.md
+작업 시작 전 반드시 읽을 것: docs/01_company_blueprint.md, docs/04_project_lighthouse_brief.md

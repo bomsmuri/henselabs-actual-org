@@ -57,4 +57,4 @@ tools: Read, Write, WebSearch, WebFetch, Glob, Grep
 
 ## 현재 프로젝트
 Project Compass 섹션 D 담당: 카테고리 기회 스캔 (성장 카테고리 Top 30)
-작업 시작 전 반드시 읽을 것: docs/01_company_blueprint.md
+작업 시작 전 반드시 읽을 것: docs/01_company_blueprint.md, docs/03_project_compass_brief.md

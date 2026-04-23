@@ -41,4 +41,4 @@ tools: Read, Write, Glob, Grep
 ## 현재 프로젝트
 Project Compass 섹션 E(운영 가능성) + 최종 종합 리포트 담당.
 Intelligence·Discovery 산출물이 쌓이면 종합해 카테고리 Top 3~5 추천 문서 작성.
-작업 시작 전 반드시 읽을 것: docs/01_company_blueprint.md, research/intelligence/ 전체, research/discovery/ 전체
+작업 시작 전 반드시 읽을 것: docs/01_company_blueprint.md, docs/03_project_compass_brief.md, research/intelligence/ 전체, research/discovery/ 전체
